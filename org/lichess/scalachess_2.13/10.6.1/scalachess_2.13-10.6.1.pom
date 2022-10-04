@@ -58,7 +58,7 @@
         <repository>
             <id>lila-maven</id>
             <name>lila-maven</name>
-            <url>https://raw.githubusercontent.com/ornicar/lila-maven/master/</url>
+            <url>https://raw.githubusercontent.com/worldsims/lila-maven/develop/</url>
             <layout>default</layout>
         </repository>
     </repositories>
